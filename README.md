@@ -24,11 +24,11 @@ Here is how they appear respectively:
 
 The game features a storyline as well as a combat system which can be explored here:
 
-## Storyline:  
+## Storyline (GIF Needs Fixing):  
 
 ![Image of Storyline](/docs/Images/Story.gif)
 
-## Combat System: 
+## Combat System (GIF Needs Fixing): 
 
 ![Image of Combat System](/docs/Images/Combat.gif)
 

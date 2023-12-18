@@ -6,7 +6,7 @@ The New Infirmary is a game based on reinforcing the structure of an infirmary b
 
 ## Installation Instructions
 
-1. First you must download the game files from [here](/docs/Game/The%20New%20Infirmary.zip).
+1. First you must download the game files from [here](/docs/Game/).
 1. Then you need to extract the compressed folder. 
 1. After this, proceed to the .exe named "The New Infirmary" and run it.
 

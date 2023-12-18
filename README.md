@@ -4,9 +4,29 @@ The New Infirmary is a game based on reinforcing the structure of an infirmary b
 
 # To Play
 
+## Installation Instructions
+
 1. First you must download the game files from [here](/docs/Game/The%20New%20Infirmary.zip).
 1. Then you need to extract the compressed folder. 
 1. After this, proceed to the .exe named "The New Infirmary" and run it.
+
+## Gameplay Instructions
+
+### Level One:
+
+1. The player can walk up to the door of the building (pressing F once approached).
+1. Dialogue will then be read which the player can click through and read.
+1. The player must now click on a tree/stone 10 times in order to harvest it (obtaining 5 trees and 5 stone each).
+1. The player can then walk back up to the building's door (once again pressing F once approached).
+1. More dialogue will be played and the user can then go into the building (switching scenes).
+
+### Level Two:
+
+1. The player then has the opportunity to read through more dialogue.
+1. Once the dialogue has been read through the player must push the stack of boxes (using physics) to be able to jump onto the next level.
+1. Now the player is on the next level they can shoot (by pressing the left mouse button) until the enemies health bar depleats and they appear dead.
+1. The player can now walk back down to the door (pressing F on arrival) and go through dialogue relating to the game's ending
+1. The player will now be greeted with the launch screen once again.
 
 # Levels
 

@@ -2,6 +2,12 @@
 
 The New Infirmary is a game based on reinforcing the structure of an infirmary building by collecting resources and defeating enemies inside. It is built on top of unity and utilises C# to add a range of features.
 
+# To Play
+
+1. First you must download the game files from [here](/docs/Game/The%20New%20Infirmary.zip).
+1. Then you need to extract the compressed folder. 
+1. After this, proceed to the .exe named "The New Infirmary" and run it.
+
 # Levels
 
 The game consists of 3 scenes which are:
